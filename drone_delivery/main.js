@@ -109,9 +109,7 @@ newOrders.forEach(orderData => {
 
 orderManager.outputOrderStatuses();
 
-// Implement charging stations network functionality (Not fully implemented)
-// Allow users to configure charging station locations and types (Not fully implemented)
-// Consider charging station types and their impact on drone operations (Not fully implemented)
+
 
 
 
