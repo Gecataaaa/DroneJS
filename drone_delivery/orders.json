@@ -1,0 +1,5 @@
+[
+  { "warehouse": { "x": 40, "y": 35 }, "customer": { "x": 45, "y": 40 } },
+  { "warehouse": { "x": 50, "y": 30 }, "customer": { "x": 55, "y": 25 } },
+  { "warehouse": { "x": 60, "y": 45 }, "customer": { "x": 65, "y": 50 } }
+]

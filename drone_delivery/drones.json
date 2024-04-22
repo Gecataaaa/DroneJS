@@ -1,0 +1,5 @@
+[
+  {"batteryCapacity": 100, "powerConsumption": 5},
+  {"batteryCapacity": 150, "powerConsumption": 7},
+  {"batteryCapacity": 200, "powerConsumption": 9}
+]
