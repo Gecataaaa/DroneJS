@@ -13,7 +13,7 @@ class OrderManager {
     outputOrderStatuses() {
         setInterval(() => {
             this.orders.forEach((order, index) => {
-                // For demonstration, let's randomly update the status of each order
+               
                 const randomStatus = Math.random() < 0.5 ? "Delivered" : "To be delivered";
                 order.status = randomStatus;
 
